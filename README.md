@@ -1,7 +1,5 @@
 # My Leet Code Solutions
 
-One problem at a time.
-
-My, my brain, and a notebook.
+Me, my brain, and my notebook, one problem at a time.
 
 
